@@ -18,4 +18,8 @@
 
 8. Counter render is then created with a question time of 10seconds for every question starting from a count of 0.
 
-9. Function counter render will be called for every second and i placed in a condition for time for every question and increment count increment by 1 else if user doesnt answer the question the and the count is 0  
+9. Function counter render will be called for every second and i placed in a condition for time for every question and increment count increment by 1 else if user doesnt answer the question the and the count is 0.
+
+10. Please read in between the lines for javascript as i tried to explain all my code in details with how i managed to create this quiz with javascript
+
+# CSS
