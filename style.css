@@ -24,7 +24,7 @@ body{
     position: absolute;
     left:300px;
     top:50px;
-    color : lightgrey;
+    color : red;
 }
 #start:hover{
     border: 3px solid lightseagreen;
